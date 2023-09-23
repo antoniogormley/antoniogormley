@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @antoniogormley
-- 👀 I’m interested in software development, in particular swiftUI
-- 🌱 I’m currently learning swift and some web development
-- 💞️ I’m looking to collaborate on any ios project using swift
 - 📫 How to reach me: antoniogormley@gmail.com
 
 <!---
